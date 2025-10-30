@@ -16,9 +16,9 @@ print("Python") ## normal print
 print("\tPython") ##                                    | \t = printing with tabulation
 print("Python\nR\nSQL") ##                              | \n = printing with newline
 
-favorite_language = ' python ' ## att to whitespace in the end of the string
-print(f"{favorite_language}") ## = ' python '
-print(f"{favorite_language.rstrip()}") ## = ' python'   | .rstrip() cuts the whitespace at the right
-print(f"{favorite_language.lstrip()}") ## = 'python '   | .lstrip() cuts the whitespace at the left
-print(f"{favorite_language.strip()}") ## = 'python'     | .strip() cuts the whitespace at the left
+favorite_language = ' python ' ##           ' python '
+print(f"{favorite_language}") ##            ' python '
+print(f"{favorite_language.rstrip()}") ##   ' python'   | .rstrip() cuts the whitespace at the right
+print(f"{favorite_language.lstrip()}") ##   'python '   | .lstrip() cuts the whitespace at the left
+print(f"{favorite_language.strip()}") ##    'python'    | .strip() cuts the whitespace at the left
 
