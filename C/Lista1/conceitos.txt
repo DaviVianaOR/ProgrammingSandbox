@@ -1,5 +1,0 @@
-0001 João da Silva                     B
-0002 Maria Oliveira                     R
-0003 Carlos Souza                       A
-0004 Ana Martins                        F
-0005 Pedro Lima                         B
